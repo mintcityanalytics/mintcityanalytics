@@ -1,7 +1,7 @@
  Hi there! My name is Daniel Wicker and this my GitHub account for soccer/football work.
  Because my career has transitioned into the professional sphere, I have made the majority of my repositories private.
  I plan on publishing some code and analysis unrelated to my professional work soon, so stay tuned!
- My DM's are always open ([@DW__Analytics]([url](https://twitter.com/DW__Analytics))), but you can also reach me via my professional website [danielwicker.me].
+ My DM's are always open ([@DW__Analytics](twitter.com/DW__Analytics), but you can also reach me via my professional website [danielwicker.me](danielwicker.me).
 
 <!---
 mintcityanalytics/mintcityanalytics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
